@@ -1,0 +1,9 @@
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.exe.config
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.exe
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.pdb
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\obj\Debug\AutoCCleaner.ProjectInstaller.resources
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\obj\Debug\AutoCCleaner.Service.resources
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\obj\Debug\AutoCCleaner.csproj.GenerateResource.Cache
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\obj\Debug\AutoCCleaner.exe
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\obj\Debug\AutoCCleaner.pdb
+d:\Work\Programming\AutoCCleaner\AutoCCleaner\obj\Debug\AutoCCleaner.csprojResolveAssemblyReference.cache

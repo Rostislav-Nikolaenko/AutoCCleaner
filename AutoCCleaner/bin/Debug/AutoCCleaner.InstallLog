@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'D:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.InstallLog
+   assemblypath = D:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.exe
+Устанавливается служба AutoCCleaner...
+Служба AutoCCleaner успешно установлена.
+Создается исходный EventLog AutoCCleaner в журнале Application...
+Выполняется фиксация сборки 'D:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.InstallLog
+   assemblypath = D:\Work\Programming\AutoCCleaner\AutoCCleaner\bin\Debug\AutoCCleaner.exe
